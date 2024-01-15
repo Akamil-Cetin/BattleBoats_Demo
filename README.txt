@@ -1,0 +1,2 @@
+# BattleBoats_Demo
+When the program runs, even though it should run the console windowed full screen, the console may open in a small window. For the best – and the only – experience, the window should be as big as possible. Windowed full screen will be enough. However, if the font on the console is too big, the ASCII work will look weird, and it will be almost impossible to play like that. So that may need to be fixed by using CTRL + Mouse Scroll. 
